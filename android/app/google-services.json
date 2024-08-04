@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007378601003",
+    "project_id": "online-pay-8c4e8",
+    "storage_bucket": "online-pay-8c4e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007378601003:android:2610d9dd02c173f7ba066e",
+        "android_client_info": {
+          "package_name": "com.example.card_holder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5v-_P9TlMTibzPbojuGBiztwqqym3bHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
